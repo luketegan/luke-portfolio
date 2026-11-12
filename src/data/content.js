@@ -39,12 +39,12 @@ export const projects = [
     timeline: 'June 2026 – August 2026',
     tools: 'Shopify, Liquid, Calendly, Instagram, TikTok, digital analytics',
     cover: {
-      src: 'projects/sal-amore/home-after.jpg',
+      src: 'projects/sal-amore/home-after-v2.jpg',
       alt: 'Sal Amore homepage with a woman in a straw hat and two matching buttons: Explore the Collection and Book a Design Appointment',
     },
     gallery: [
       { src: 'projects/sal-amore/home-before.jpg', caption: 'Homepage: before', alt: 'Earlier Sal Amore homepage hero image' },
-      { src: 'projects/sal-amore/home-after.jpg', caption: 'Homepage: after, with matching call-to-action buttons', alt: 'Updated homepage with two equal-size buttons over the hero image' },
+      { src: 'projects/sal-amore/home-after-v2.jpg', caption: 'Homepage: after, with matching call-to-action buttons', alt: 'Updated homepage with two equal-size buttons over the hero image' },
       { src: 'projects/sal-amore/events.jpg', caption: 'New Events page linking to private events, virtual design appointments, and large events', alt: 'Celebrate with Sal Amore page with three photo cards for event types', wide: true },
       { src: 'projects/sal-amore/inquiry-before.jpg', caption: 'Private events inquiry: before', alt: 'Earlier inquiry page with a basic name, email, phone, and comment form' },
       { src: 'projects/sal-amore/inquiry-after.jpg', caption: 'Private events inquiry: after, with event details and imagery', alt: 'Redesigned inquiry form with fields for event type, date, guests, and location next to a hat photo' },
